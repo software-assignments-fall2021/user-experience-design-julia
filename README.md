@@ -33,6 +33,10 @@ The only difference bewteen the User and Vendor sign up page is an additional pa
 The categories on this page expands into subcategories
 <img src = "/wireframes/sub category displayed.png">
 
+### Articles/Featured Vendors
+<img src = "/wireframes/article_nav.png">
+<img src = "/wireframes/article_nonav.drawio.png">
+
 ### Settings 
 <img src = "/wireframes/settings.png">
 
