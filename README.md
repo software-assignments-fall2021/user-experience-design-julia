@@ -34,7 +34,7 @@ The categories on this page expands into subcategories
 <img src = "/wireframes/sub category displayed.png">
 
 ### Articles/Featured Vendors
-<img src = "/wireframes/article_nav.png">
+<img src = "/wireframes/article-nav.png">
 <img src = "/wireframes/article_nonav.drawio.png">
 
 ### Settings 
