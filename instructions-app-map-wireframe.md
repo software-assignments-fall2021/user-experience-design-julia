@@ -1,5 +1,4 @@
-## App Map 
-<img src="app map.png">
+## App Map & Wireframes
 
 Create an **app map** and a complete set of **wireframe diagrams** for the **Minimum Viable Product** (MVP) of your application.
 
