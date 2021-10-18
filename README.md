@@ -29,7 +29,7 @@ The only difference bewteen the User and Vendor sign up page is an additional pa
 <img src = "/wireframes/vendor profile.png">
 
 ### Vendor Categories
-<img src = "/wireframes/category.png">
+<img src = "/wireframes/category page.png">
 The categories on this page expands into subcategories
 <img src = "/wireframes/sub category displayed.png">
 
