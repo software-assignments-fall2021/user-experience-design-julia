@@ -1,8 +1,41 @@
-## User Experience Design
+# User Experience Design
+## Prototype
+https://invis.io/7F11VUZD5RBM
 
-This repository contains instructions and files for two assignments that together comprise the user experience design phase of a web app.
+## App Map
+<img src = "/wireframes/app map.png">
 
-Replace the contents of this file with the completed assignments, as described in:
+## Wireframes
 
-- [app map and wireframe instructions](./instructions-app-map-wireframe.md).
-- [prototype instructions](./instructions-prototype.md)
+### Login 
+Users have the option to connect their social media accounts to log in, for example Twitter, Facebook or Google.
+<img src = "/wireframes/login.png">
+
+### User and Vendor Sign Up
+<img src = "/wireframes/user signup.png">
+The only difference bewteen the User and Vendor sign up page is an additional page for the vendor to enter relevant information
+<img src = "/wireframes/vendor signup.png">
+
+### Home 
+<img src = "/wireframes/home page.png">
+
+### About Us / Contact Page
+<img src = "/wireframes/about us contact page.png">
+
+### User Profile 
+<img src = "/wireframes/user profile.png">
+
+### User Following
+<img src = "/wireframes/user following.png">
+
+### Vendor Profile 
+<img src = "/wireframes/vendor profile.png">
+
+### Vendor Categories
+<img src = "/wireframes/category page.png">
+The categories on this page expands into subcategories
+<img src = "/wireframes/sub category displayed.png">
+
+### Settings 
+<img src = "/wireframes/settings.png">
+
