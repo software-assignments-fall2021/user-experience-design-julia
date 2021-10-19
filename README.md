@@ -1,4 +1,6 @@
 # User Experience Design
+## Prototype
+https://invis.io/7F11VUZD5RBM
 
 ## App Map
 <img src = "/wireframes/app map.png">
@@ -32,14 +34,6 @@ The only difference bewteen the User and Vendor sign up page is an additional pa
 <img src = "/wireframes/category page.png">
 The categories on this page expands into subcategories
 <img src = "/wireframes/sub category displayed.png">
-
-### Articles/Featured Vendors
-<img src = "/wireframes/articles_nav.png">
-<img src = "/wireframes/articles_nonav.png">
-
-### Article 
-<img src = "/wireframes/articles_article_nav.png">
-<img src = "/wireframes/articles_article_nonav.png">
 
 ### Settings 
 <img src = "/wireframes/settings.png">
