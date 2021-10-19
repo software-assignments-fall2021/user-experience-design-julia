@@ -8,6 +8,7 @@ https://invis.io/7F11VUZD5RBM
 ## Wireframes
 
 ### Login 
+Users have the option to connect their social media accounts to log in, for example Twitter, Facebook or Google.
 <img src = "/wireframes/login.png">
 
 ### User and Vendor Sign Up
