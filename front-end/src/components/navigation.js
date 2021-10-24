@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 // nodejs library that concatenates strings
 import classnames from "classnames";
 
@@ -54,9 +55,9 @@ function Navigation() {
         <div className="navbar-translate">
           <NavbarBrand
             data-placement="bottom"
-            to="/index"
-            target="_blank"
+            to="/Home"
             title="Coded by Creative Tim"
+            tag={Link}
           >
             Whendor
           </NavbarBrand>
@@ -79,17 +80,17 @@ function Navigation() {
         >
           <Nav navbar>
             <NavItem>
-              <NavLink to="/index">
+              <NavLink to="/Vendors" tag={Link}>
                 <i /> Vendors
               </NavLink>
             </NavItem>
             <NavItem>
-              <NavLink to="/index">
+              <NavLink href="#Vendors" active>
                 <i /> Settings
               </NavLink>
             </NavItem>
             <NavItem>
-              <NavLink to="/index">
+              <NavLink href="#Vendors" active>
                 <i /> Profile
               </NavLink>
             </NavItem>
