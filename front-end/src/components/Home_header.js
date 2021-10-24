@@ -35,10 +35,13 @@ function Home_header() {
           <Container>
             <div className="motto text-center">
               <h1>Whendor</h1>
-              <h3>Start designing your landing page here.</h3>
+              <h3>Finding NYC Vendors Quickly and Cleanly</h3>
               <br />
               <Button className="btn-round" color="neutral" type="button" outline>
-                Learn More
+                Featured Vendor
+              </Button>
+              <Button className="btn-round" color="neutral" type="button" outline>
+                About Us
               </Button>
             </div>
           </Container>
